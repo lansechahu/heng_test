@@ -12,7 +12,7 @@ export default class Scene1 extends Scene {
     }
 
     get wid() {
-        return 1338;
+        return 1386;
     }
 
     get hei() {
